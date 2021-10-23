@@ -1,4 +1,4 @@
-# Hi, I'm Ariful islam <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi, I'm Ariful islam
 <a href="https://ais95.github.io/"> Love human computer interaction, Design & Development </a>
 <hr/>
 
