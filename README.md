@@ -1,5 +1,5 @@
 # Hi, I'm Ariful islam
-<a href="https://ais95.github.io/"> Love Human Computer Interaction, Design & Development </a>
+<a href="https://ais95.github.io/"> Love Human Computer Interaction, Computer & Software Engineering </a>
 <hr/>
 
 - 👨‍💻 I’m currently working on UI & web technologies like JavaScript, Vue JS etc.
