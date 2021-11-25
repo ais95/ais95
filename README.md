@@ -2,7 +2,7 @@
 <a href="https://ais95.github.io/"> Love Human Computer Interaction, Computer & Software Engineering </a>
 <hr/>
 
-- 👨‍💻 I’m currently working on UI/UX & Web technologies like Adobe XD, Figma, JavaScript, Vue JS & React JS etc.
+- 👨‍💻 Working on UI/UX & Web technologies like Adobe XD, Figma, JavaScript, Vue JS & React JS etc.
 - 📚 I’m currently learning to become more expert in front-end technology with eye-catching design combinations 😅
 - 💪🏼 Designing User Interface for Mobile & Web Browsers, Implementing smooth experience in web apps.
 - ⚡ Love to explore new thing about technologies & world of productivity 🎱.
