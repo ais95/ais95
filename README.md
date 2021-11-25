@@ -1,5 +1,5 @@
 # Hi, I'm Ariful islam
-<a href="https://ais95.github.io/"> Love Human Computer Interaction, Computer & Software Engineering </a>
+<a href="https://ais95.github.io/"> Influenced with Human Computer Interaction Design, Computer & Software Engineering </a>
 <hr/>
 
 - 👨‍💻 Working on UI/UX & Web technologies like Adobe XD, Figma, JavaScript, Vue JS & React JS etc.
