@@ -7,7 +7,7 @@
 - 💪🏼 Designing User Interface for Mobile & Web Browsers, Implementing smooth experience in web apps.
 - ⚡ Love to explore new thing about technologies & world of productivity 🎱.
 
-<hr />
+
 
 ## Explored Technologies 🛠 
 
