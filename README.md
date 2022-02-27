@@ -24,5 +24,9 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
 <br/>
+
+
+<hr/>
+## About Me
+My main principle is to put my heart in every project i make. This is the secret that allows to get the best result. I believe my strong skills are my creativeness and punctuality. My #1 goal will always be to meet your needs and deadline. When working on a new project, I like to speak with the client, so that I can have a clear understanding of his/her needs and vision of the project.
